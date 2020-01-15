@@ -1,0 +1,27 @@
+[
+    {
+        "time": "4:30 PM",
+        "status": "online"
+    },
+    {
+        "time": "4:48 PM",
+        "status": "offline"
+    },
+    {
+        "time": "6:32 PM",
+        "status": "online"
+    },
+    {
+        "time": "6:35 PM",
+        "status": "offline"
+    },
+    {
+        "time": "8:19 PM",
+        "status": "online"
+    },
+    {
+        "time": "4:30 PM",
+        "status": "offline"
+    }
+    
+]
